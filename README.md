@@ -1,7 +1,7 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Python Version](https://img.shields.io/badge/python-3.10.12-red.svg)](https://www.python.org/downloads/release/python-31012/)
 [![PyTorch Version](https://img.shields.io/badge/PyTorch-1.9.0-green.svg)](https://pytorch.org/get-started/locally/)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PKhosravi-CityTech/LightCnnRad/blob/main/LightCnnRad.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PKhosravi-CityTech/ExCapNet/blob/main/ExCapNet.ipynb)
 
 
 # ExCapNet
