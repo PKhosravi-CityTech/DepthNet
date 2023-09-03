@@ -24,7 +24,7 @@ The ExCapNet GitHub repository provides a comprehensive resource suitable for bo
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
 
-> Khosravi, P., *ExCapNet*, BioMind AI Lab, Department of Biological Sciences, New York City College of Technology, CUNY, New York City, NY, USA. Released in 2023. [Link to Repository](https://github.com/PKhosravi-CityTech/ExCapNet)
+> Khosravi P., *ExCapNet*, BioMind AI Lab, Department of Biological Sciences, New York City College of Technology, CUNY, New York City, NY, USA. Released in 2023. [Link to Repository](https://github.com/PKhosravi-CityTech/ExCapNet)
 
 Thank you for contributing to the advancement of AI and research. 🤖
 
