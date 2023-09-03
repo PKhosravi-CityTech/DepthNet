@@ -8,11 +8,11 @@
 
 :diamond_shape_with_a_dot_inside: ExCapNet: A Versatile Deep Learning Model for MRI Image Analysis with Applications in Cancer Research.
 
-The ExCapNet model is a deep learning architecture designed for the detection of extracapsular extension in MRI images. This task involves classifying images into one of two categories, indicating the presence or absence of extracapsular extension. The model utilizes a convolutional neural network (CNN) to automatically learn relevant features from the input images. It consists of several convolutional layers followed by batch normalization, ReLU activation, and max-pooling. The learned features are then fed through fully connected layers to make the final prediction.
+The ExCapNet model is a convolutional neural network (CNN) designed for precise prostate cancer extracapsular extension (ECE) detection using MRI images. It employs multiple convolutional layers, batch normalization, ReLU activations, and dropout to extract and analyze image features. In this critical task, the model classifies images into one of two categories, indicating the presence or absence of ECE (Y_ECE vs. N_ECE).
 
-The architecture of the ExCapNet model is designed to capture intricate patterns and features from the MRI images that are indicative of extracapsular extension. By training on labeled data, the model learns to distinguish between the different classes, enabling it to provide accurate predictions on new, unseen MRI images.
+It's noteworthy that the MRI images used for training and evaluation are labeled with T2 and T3 pathology results, enriching the model's ability to discern between the different classes accurately. This combination of architectural design and labeled data empowers ExCapNet to provide precise predictions for new, unseen MRI images.
 
-This script contains the implementation of the ExCapNet model using PyTorch. After defining the architecture, the model is instantiated and ready to be trained and evaluated. Adjust the 'num_classes' parameter as needed for your specific classification task.
+This script encompasses the implementation of the ExCapNet model using PyTorch. Following the definition of the architecture, the model is instantiated and poised for both training and evaluation, contributing to advancements in the critical field of prostate cancer diagnosis.
 
 <img src="https://github.com/PKhosravi-CityTech/ExCapNet/blob/main/Images/ExCapNet.png" width="500" />
 
