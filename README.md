@@ -6,7 +6,7 @@
 
 # DepthNet
 
-:diamond_shape_with_a_dot_inside: DepthNet: A Versatile Deep Learning Model for MRI Image Analysis with Applications in Cancer Research.
+:diamond_shape_with_a_dot_inside: DepthNet: Depthwise separable convolutions for efficient and scalable image classification.
 
 In the development of the DepthNet neural network architecture, we employed a sophisticated approach utilizing depthwise separable convolutions to create an efficient and effective model for image classification tasks. The architecture consists of four depthwise separable convolution blocks, each comprising a depthwise convolution layer followed by a pointwise convolution layer, which significantly reduces the number of parameters compared to traditional convolutional networks. This design choice not only improves computational efficiency but also reduces overfitting due to the decreased model complexity.
 
