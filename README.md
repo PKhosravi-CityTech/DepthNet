@@ -12,7 +12,7 @@ In the development of the DepthNet neural network architecture, we employed a so
 
 Each block includes batch normalization and ReLU activation functions to stabilize learning and introduce non-linearity, followed by max pooling to reduce spatial dimensions and enhance feature extraction. The network's output from the convolutions is processed through fully connected layers, incorporating a dropout rate of 60% before the final classification layer to prevent overfitting further. This model architecture is tailored to operate efficiently on both CPU and GPU environments, ensuring versatile deployment capabilities. The model initializes with a simple binary classification objective but can be adapted to accommodate more classes as needed. This adaptability makes DepthNet suitable for a wide range of image recognition applications, demonstrating its robustness and scalability in practical scenarios.
 
-<img src="https://github.com/PKhosravi-CityTech/DepthNet/blob/main/Images/Depth.png" width="500" />
+<img src="https://github.com/PKhosravi-CityTech/DepthNet/blob/main/Images/DepthNet.png" width="500" />
 
 The DepthNet model is a CNN designed for analyzing high-resolution MRI images (input size 512x512). It features multiple convolutional layers, batch normalization, ReLU activations, and dropout to meticulously extract and analyze image features. Notably, the model classifies images into one of two categories, such as effective or ineffective treatment responses, and measures patient-level accuracy. We utilize early stopping techniques to enhance training efficiency and prevent overfitting, terminating training if there's no improvement in validation accuracy over a set number of epochs.
 
