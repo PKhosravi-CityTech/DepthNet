@@ -24,7 +24,7 @@ This script outlines the DepthNet model's implementation using PyTorch, from the
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
 
-> Khosravi P., *DepthNet*, BioMind AI Lab, Department of Biological Sciences, New York City College of Technology, CUNY, New York City, NY, USA. Released in 2023. [Link to Repository](https://github.com/PKhosravi-CityTech/DepthNet)
+> Khosravi P., *DepthNet*, BioMind AI Lab, Department of Biological Sciences, New York City College of Technology, CUNY, New York City, NY, USA. Released in 2024. [Link to Repository](https://github.com/PKhosravi-CityTech/DepthNet)
 
 Thank you for contributing to the advancement of AI and research. 🤖
 
