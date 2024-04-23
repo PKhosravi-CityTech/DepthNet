@@ -18,7 +18,7 @@ The DepthNet model is a CNN designed for analyzing high-resolution MRI images (i
 
 This script outlines the DepthNet model's implementation using PyTorch, from the architecture's setup to its readiness for both training and evaluation. This ensures the model not only learns effectively but also generalizes well across new, unseen data.
 
-:diamond_shape_with_a_dot_inside: Please access the "DepthpNet.ipynb" file on Google Colab and follow the provided instructions. Additionally, you can find sample images labeled as "Data.zip" in the "Images" folder. Please be aware that these images are provided as examples to demonstrate the required format, and you will need to gather a larger set of images for training the model. 
+:diamond_shape_with_a_dot_inside: Please access the "DepthNet.ipynb" file on Google Colab and follow the provided instructions. Additionally, you can find sample images labeled as "Data.zip" in the "Images" folder. Please be aware that these images are provided as examples to demonstrate the required format, and you will need to gather a larger set of images for training the model. 
 
 🛰️ **Citation Request:** If you find the contents and tools in this repository valuable for your work, we kindly request that you cite it in your research or project. Your citation helps acknowledge the effort put into creating and maintaining these AI-driven resources.
 
